@@ -1,0 +1,9 @@
+export const CONFIG_FACEBOOK_APP_ID = '1234567890';
+export const CONFIG_FIREBASE = {
+    apiKey: "ABC...123",
+    authDomain: "EXAMPLE-12345.firebaseapp.com",
+    databaseURL: "https://EXAMPLE-12345.firebaseio.com",
+    projectId: "EXAMPLE-12345",
+    storageBucket: "EXAMPLE-123456.appspot.com",
+    messagingSenderId: "123"
+  };
